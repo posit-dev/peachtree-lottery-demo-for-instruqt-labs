@@ -10,3 +10,5 @@ This demo repository contains:
 * [A plumber model API](https://www.rplumber.io/index.html). (`plumber.R`, `lottery_model.rds`, and `deploy.R`)
 
 Hosting the Querychat app will require configuring the `QUERYCHAT_CLIENT` environment variable, as well as an API key. See instructions [here](https://posit-dev.github.io/querychat/r/reference/querychat-convenience.html#arg-client).
+
+A Python version of the Shiny app is available in the branch `python-app`.
