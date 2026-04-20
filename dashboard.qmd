@@ -1,5 +1,5 @@
 ---
-title: "2025 Peach Tree Lottery Sales"
+title: "2025 Peach Tree Lottery Sales Dashboard"
 format:
   dashboard:
     theme: cosmo
